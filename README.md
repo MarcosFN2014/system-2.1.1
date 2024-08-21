@@ -130,17 +130,18 @@ Salva o dicionário de produtos no arquivo CSV `produtos.csv`.
 Ao executar o programa, o menu principal será exibido:
 ---------------------------
         New System
+
+ 1 - Cadastrar Novo Produto
+ 2 - Listar Produtos Cadastrados
+ 3 - Atualizar Cadastro de Produtos
+ 4 - Remover Cadastro de Produto
+ 5 - Adicionar ao Carrinho de Compras
+ 6 - Visualizar Carrinho
+ 7 - Finalizar Compra
+ 8 - Gerar Relatório de Estoque
+ 9 - Gerar Relatório de Vendas
+ 10 - Sair
 ---------------------------
-- 1 - Cadastrar Novo Produto
-- 2 - Listar Produtos Cadastrados
-- 3 - Atualizar Cadastro de Produtos
-- 4 - Remover Cadastro de Produto
-- 5 - Adicionar ao Carrinho de Compras
-- 6 - Visualizar Carrinho
-- 7 - Finalizar Compra
-- 8 - Gerar Relatório de Estoque
-- 9 - Gerar Relatório de Vendas
-- 10 - Sair
 - Digite o número da opção desejada e siga as instruções.
 
 ## Tecnologias Utilizadas
